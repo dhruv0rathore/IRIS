@@ -71,11 +71,6 @@ The project was executed through a structured, multi-phase methodology:
 | :---------------------------------- | :----------------- | :------------ | :-------------- | :------------------ | :----------------- |
 | **Support Vector Machine (SVC)** | `C=1, gamma=0.1`   | **0.9667** | **1.00** | **0.95** | **0.95** |
 
-## How to Run This Project
-
-1.  Open the Google Colab file: `[Link to Your Colab Notebook]` (replace with your notebook's direct link for easy access).
-2.  Run all cells sequentially within the Colab environment.
-
 ---
 
 ## Conclusion: A Masterclass in Foundational ML
